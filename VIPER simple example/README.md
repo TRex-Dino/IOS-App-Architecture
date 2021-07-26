@@ -1,5 +1,4 @@
 ## Example with Architecture VIPER
 
-![](images/viper1.png)
-![](images/viper2.png)
-![](images/viper3.png)
+ 
+<img src="images/viper1.png" width="200" />  <img src="images/viper2.png" width="200" /> <img src="images/viper3.png" width="200" />
